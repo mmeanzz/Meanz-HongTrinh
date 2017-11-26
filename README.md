@@ -1,4 +1,5 @@
-# de-tai-ket-thuc-hoc-phan-chi-nghia-van-s
-de-tai-ket-thuc-hoc-phan-chi-nghia-van-s created by GitHub Classroom
+# de-tai-ket-thuc-hoc-phan
+de-tai-ket-thuc-hoc-phan created by GitHub Classroom
 
-Designed by Meanzz
+Tên đề tài: Food Calculator
+Designed by Meanz & HongTrinh
